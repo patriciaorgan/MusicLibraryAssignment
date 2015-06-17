@@ -1,0 +1,14 @@
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\MusicLibraryAssignment\MusicLibraryAssignment\bin\Debug\MusicLibraryAssignment.exe.config
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\MusicLibraryAssignment\MusicLibraryAssignment\bin\Debug\MusicLibraryAssignment.exe
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\MusicLibraryAssignment\MusicLibraryAssignment\bin\Debug\MusicLibraryAssignment.pdb
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\MusicLibraryAssignment\MusicLibraryAssignment\bin\Debug\MySql.Data.dll
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\MusicLibraryAssignment\MusicLibraryAssignment\obj\Debug\MusicLibraryAssignment.csprojResolveAssemblyReference.cache
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\MusicLibraryAssignment\MusicLibraryAssignment\obj\Debug\MusicLibraryAssignment.exe
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\MusicLibraryAssignment\MusicLibraryAssignment\obj\Debug\MusicLibraryAssignment.pdb
+Z:\Documents\Visual Studio 2013\Projects\MusicLibraryAssignment\MusicLibraryAssignment\bin\Debug\MusicLibraryAssignment.exe.config
+Z:\Documents\Visual Studio 2013\Projects\MusicLibraryAssignment\MusicLibraryAssignment\obj\Debug\MusicLibraryAssignment.exe
+Z:\Documents\Visual Studio 2013\Projects\MusicLibraryAssignment\MusicLibraryAssignment\obj\Debug\MusicLibraryAssignment.pdb
+Z:\Documents\Visual Studio 2013\Projects\MusicLibraryAssignment\MusicLibraryAssignment\bin\Debug\MusicLibraryAssignment.exe
+Z:\Documents\Visual Studio 2013\Projects\MusicLibraryAssignment\MusicLibraryAssignment\bin\Debug\MusicLibraryAssignment.pdb
+Z:\Documents\Visual Studio 2013\Projects\MusicLibraryAssignment\MusicLibraryAssignment\bin\Debug\MySql.Data.dll
+Z:\Documents\Visual Studio 2013\Projects\MusicLibraryAssignment\MusicLibraryAssignment\obj\Debug\MusicLibraryAssignment.csprojResolveAssemblyReference.cache
